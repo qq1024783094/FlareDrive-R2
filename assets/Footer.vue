@@ -19,18 +19,7 @@
       访问次数：<span id="vercount_value_site_pv">😯</span>次 | 访客人数：<span id="vercount_value_site_uv">😯</span>人
     </div>
 
-    <div class="project-links">
-      <strong>到这已经是第三开了:</strong><a href="https://github.com/52op/FlareDrive-R2" target="_blank"
-        rel="noopener noreferrer">FlareDrive-R2增强版</a>
-      <strong>感谢:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
-        rel="noopener noreferrer">FlareDrive-R2</a>
-      <strong>初始项目:</strong><a href="https://github.com/ljxi/Cloudflare-R2-oss" target="_blank"
-        rel="noopener noreferrer">Cloudflare-R2-OSS</a>
-    </div>
-
-    <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
-        rel="noopener noreferrer">Cloudflare Workers</a></div>
-
+    
     <div style="margin:10px 0;">© 2025 FlareDrive. All rights reserved.</div>
   </footer>
 </template>
@@ -40,10 +29,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.sztcrs.com/",
-      blogUrl: "https://blog.sztcrs.com/",
-      githubUrl: "https://github.com/52op",
-      emailUrl: "mailto:admin@sztcrs.com"
+      homeUrl: "https://gt.1314220.xyz/",
+      blogUrl: "https://gt.1314220.xyz/",
+      githubUrl: "https://gt.1314220.xyz/",
+      emailUrl: "mailto:o_0.clx@icloud.com"
     };
   }
 };
